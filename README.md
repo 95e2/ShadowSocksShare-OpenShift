@@ -21,7 +21,7 @@
 </p>
 <hr>
 
-https://travis-ci.org/95e2/ShadowSocksShare-OpenShift.svg?branch=dev
+[!Build status](https://travis-ci.org/95e2/ShadowSocksShare-OpenShift.svg?branch=dev)
 
 ## 简介：
 
