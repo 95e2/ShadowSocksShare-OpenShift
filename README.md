@@ -21,10 +21,7 @@
 </p>
 <hr>
 
-| **master** | **dev** |
-|--------|--------|
-| [![Build Status](https://travis-ci.org/the0demiurge/ShadowSocksShare-OpenShift.svg?branch=master)](https://travis-ci.org/the0demiurge/ShadowSocksShare-OpenShift) | [![Build Status](https://travis-ci.org/the0demiurge/ShadowSocksShare-OpenShift.svg?branch=dev)](https://travis-ci.org/the0demiurge/ShadowSocksShare-OpenShift) |
-
+https://travis-ci.org/95e2/ShadowSocksShare-OpenShift.svg?branch=dev
 
 ## 简介：
 
